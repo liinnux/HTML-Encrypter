@@ -24,6 +24,10 @@ h1 {
   font-size:28px;
 }
 
+h1:hover, h1:focus {
+ color: #CE8B10;
+}
+
 h2 {
   color:#393939;
 }
